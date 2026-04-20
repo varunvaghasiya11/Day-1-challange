@@ -1,0 +1,16 @@
+ body {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     background: black;
+     color: lime;
+     font-family: Arial, sans-serif;
+ }
+
+ #clock {
+     font-size: 50px;
+     border: 2px solid lime;
+     padding: 20px 40px;
+     border-radius: 10px;
+ }
